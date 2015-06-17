@@ -1,7 +1,7 @@
 # Auto_Outage_Email
 Automated email system for network outages. Uses Google apps javascript
 
-Typical usage scenario:
+Typical link failure scenario:
 
 A NOC team member sees an important link go down. The team scrambles to find out what the issue is and resolve it - while reacting to customer calls, emails and the ticket creation process. What if the NOC team could handle a crisis in a more effecient manner?
 
